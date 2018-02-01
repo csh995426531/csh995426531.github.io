@@ -3,7 +3,7 @@ title: CUI YAN
 SEOTitle: 崔颜的小窝 | CUI YAN
 header-img: img/home-bg.jpg
 email: cuisaihang@gmail.com
-description: "这里有C和Y的爱情记录"
+description: "这里有C和Y的虐狗日常"
 keyword: "崔赛航, 颜嘉敏, 崔赛航的女朋友, 颜嘉敏的男朋友, 生活记录, yjm, csh, yanjiamin, cuisaihang,  PHP"
 url: "https://csh995426531.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,7 +12,7 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-weibo_username:     Yc_夜里的灯 
+weibo_username:     80904087 
 #zhihu_username:      
 #github_username:      
 #twitter_username:    
@@ -67,8 +67,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "愿我如星君如月<br> &nbsp&nbsp  夜夜流光相皎洁"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "愿我如星君如月<br> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  夜夜流光相皎洁"
+sidebar-avatar: /img/avatar-csh.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
