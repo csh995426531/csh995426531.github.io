@@ -25,12 +25,12 @@ tags:
 
 如果没有该文件创建它：
 
-> `cd /home/git
-	mkdir .ssh
-	chmod 700 .ssh
-	touch .ssh/authorized_keys
-	chmod 600 .ssh/authorized_keys
-`
+> `cd /home/git`
+> `mkdir .ssh`
+> `chmod 700 .ssh`
+> `touch .ssh/authorized_keys`
+> `chmod 600 .ssh/authorized_keys`
+
 
 *用户公钥生成方法 在客户端电脑，cmd里输入 $ ssh-keygen -t rsa -C "youremail@example.com"*
 *把邮件地址换成你自己的邮件地址，然后一路回车，使用默认值即可*
@@ -41,9 +41,9 @@ tags:
 
 首先我们选定一个目录作为Git仓库，假定是/home/intelligent_doctor.git，输入命令：
 
-> `cd /home/git
-	git init --bare intelligent_doctor.git
-`
+> `cd /home/git`
+> `git init --bare intelligent_doctor.git`
+
 
 以上命令Git创建一个空仓库，服务器上的Git仓库通常都以.git结尾。然后，把仓库所属用户改为git：
 
