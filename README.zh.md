@@ -85,7 +85,7 @@ description: "Cool Blog"    # 随便说点，描述一下
 
 # SNS settings      
 github_username: huxpro     # 你的github账号
-weibo_username: huxpro      # 你的微博账号，底部链接会自动更新的。
+weibo_username: cuiyan      # 你的微博账号，底部链接会自动更新的。
 
 # Build settings
 # paginate: 10              # 一页你准备放几篇文章

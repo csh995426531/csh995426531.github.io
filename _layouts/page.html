@@ -140,9 +140,19 @@ layout: default
                                 </a>
                             </li>
                             {% endif %}
-                            {% if site.weibo_username %}
+                            {% if site.weibo_username_1 %}
                             <li>
-                                <a target="_blank" href="http://weibo.com/{{ site.weibo_username }}">
+                                <a target="_blank" href="http://weibo.com/{{ site.weibo_username_1 }}">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fa fa-circle fa-stack-2x"></i>
+                                        <i class="fa fa-weibo fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            {% endif %}
+                            {% if site.weibo_username_2 %}
+                            <li>
+                                <a target="_blank" href="http://weibo.com/{{ site.weibo_username_2 }}">
                                     <span class="fa-stack fa-lg">
                                         <i class="fa fa-circle fa-stack-2x"></i>
                                         <i class="fa fa-weibo fa-stack-1x fa-inverse"></i>
