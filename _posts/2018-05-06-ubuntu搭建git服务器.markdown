@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "你好 2018"
-subtitle:   "你好 YJM"
-date:       2018-05-06 23:00:00
+title:      "ubuntu 搭建git服务器"
+subtitle:   ""
+date:       2018-05-07 00:00:00
 author:     "Cui Yan"
-header-img: "img/2018-life.jpg"
+header-img: "img/skill.jpg"
 catalog: true
 tags:
     - 笔记
