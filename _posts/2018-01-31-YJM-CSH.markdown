@@ -16,7 +16,7 @@ tags:
 ## 前言
 ![haha](/img/icon_wechat.png "Title")
 `<a href="https://www.baidu.com">哈哈哈</a>`
-Hux 的 Blog 就这么开通了。
+11 就这么开通了。
 
 [跳过废话，直接看技术实现 ](#build) 
 
