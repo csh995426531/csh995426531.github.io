@@ -26,9 +26,13 @@ tags:
 如果没有该文件创建它：
 
 > `cd /home/git`
+
 > `mkdir .ssh`
+
 > `chmod 700 .ssh`
+
 > `touch .ssh/authorized_keys`
+
 > `chmod 600 .ssh/authorized_keys`
 
 
@@ -42,6 +46,7 @@ tags:
 首先我们选定一个目录作为Git仓库，假定是/home/intelligent_doctor.git，输入命令：
 
 > `cd /home/git`
+
 > `git init --bare intelligent_doctor.git`
 
 
